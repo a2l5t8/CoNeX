@@ -1,4 +1,4 @@
-Welcome to CoNeX's documentation!
+CoNeX
 ======================================
 
 .. toctree::
